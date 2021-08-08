@@ -1,0 +1,13 @@
+{
+  "app.containers.Categories.header": "This is the Categories container!",
+  "app.containers.HomePage.header": "This is the HomePage container!",
+  "app.containers.NotFoundPage.header": "This is the NotFoundPage container!",
+  "app.containers.Products.header": "This is the Products container!",
+  "boilerplate.containers.LocaleToggle.de": "de",
+  "boilerplate.containers.LocaleToggle.en": "en",
+  "imedia.components.Footer.author.message": "Made with love by {author}.",
+  "imedia.components.Footer.license.message": "This project is licensed under the MIT license.",
+  "imedia.components.Header.categories": "Categories",
+  "imedia.components.Header.home": "Home",
+  "imedia.components.Header.products": "Products"
+}

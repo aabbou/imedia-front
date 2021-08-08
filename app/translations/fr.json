@@ -1,0 +1,13 @@
+{
+  "app.containers.Categories.header": "",
+  "app.containers.HomePage.header": "",
+  "app.containers.NotFoundPage.header": "",
+  "app.containers.Products.header": "",
+  "boilerplate.containers.LocaleToggle.de": "",
+  "boilerplate.containers.LocaleToggle.en": "",
+  "imedia.components.Footer.author.message": "",
+  "imedia.components.Footer.license.message": "",
+  "imedia.components.Header.categories": "",
+  "imedia.components.Header.home": "",
+  "imedia.components.Header.products": ""
+}

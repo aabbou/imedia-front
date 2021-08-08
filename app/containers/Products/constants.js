@@ -1,0 +1,25 @@
+/*
+ *
+ * Products constants
+ *
+ */
+
+export const GET_ALL_PRODUCTS_REQUEST = 'app/Products/GET_ALL_PRODUCTS_REQUEST';
+export const GET_ALL_PRODUCTS_SUCCESS = 'app/Products/GET_ALL_PRODUCTS_SUCCESS';
+export const GET_ALL_PRODUCTS_FAILURE = 'app/Products/GET_ALL_PRODUCTS_FAILURE';
+
+export const GET_PRODUCT_REQUEST = 'app/Products/GET_PRODUCT_REQUEST';
+export const GET_PRODUCT_SUCCESS = 'app/Products/GET_PRODUCT_SUCCESS';
+export const GET_PRODUCT_FAILURE = 'app/Products/GET_PRODUCT_FAILURE';
+
+export const CREATE_PRODUCT_REQUEST = 'app/Products/CREATE_PRODUCT_REQUEST';
+export const CREATE_PRODUCT_SUCCESS = 'app/Products/CREATE_PRODUCT_SUCCESS';
+export const CREATE_PRODUCT_FAILURE = 'app/Products/CREATE_PRODUCT_FAILURE';
+
+export const UPDATE_PRODUCT_REQUEST = 'app/Products/UPDATE_PRODUCT_REQUEST';
+export const UPDATE_PRODUCT_SUCCESS = 'app/Products/UPDATE_PRODUCT_SUCCESS';
+export const UPDATE_PRODUCT_FAILURE = 'app/Products/UPDATE_PRODUCT_FAILURE';
+
+export const DELETE_PRODUCT_REQUEST = 'app/Products/DELETE_PRODUCT_REQUEST';
+export const DELETE_PRODUCT_SUCCESS = 'app/Products/DELETE_PRODUCT_SUCCESS';
+export const DELETE_PRODUCT_FAILURE = 'app/Products/DELETE_PRODUCT_FAILURE';

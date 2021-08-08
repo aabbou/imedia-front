@@ -1,0 +1,28 @@
+/*
+ *
+ * Categories constants
+ *
+ */
+
+export const GET_ALL_CATEGORIES_REQUEST =
+  'app/Categories/GET_ALL_CATEGORIES_REQUEST';
+export const GET_ALL_CATEGORIES_SUCCESS =
+  'app/Categories/GET_ALL_CATEGORIES_SUCCESS';
+export const GET_ALL_CATEGORIES_FAILURE =
+  'app/Categories/GET_ALL_CATEGORIES_FAILURE';
+
+export const GET_CATEGORY_REQUEST = 'app/Categories/GET_CATEGORY_REQUEST';
+export const GET_CATEGORY_SUCCESS = 'app/Categories/GET_CATEGORY_SUCCESS';
+export const GET_CATEGORY_FAILURE = 'app/Categories/GET_CATEGORY_FAILURE';
+
+export const CREATE_CATEGORY_REQUEST = 'app/Categories/CREATE_CATEGORY_REQUEST';
+export const CREATE_CATEGORY_SUCCESS = 'app/Categories/CREATE_CATEGORY_SUCCESS';
+export const CREATE_CATEGORY_FAILURE = 'app/Categories/CREATE_CATEGORY_FAILURE';
+
+export const UPDATE_CATEGORY_REQUEST = 'app/Categories/UPDATE_CATEGORY_REQUEST';
+export const UPDATE_CATEGORY_SUCCESS = 'app/Categories/UPDATE_CATEGORY_SUCCESS';
+export const UPDATE_CATEGORY_FAILURE = 'app/Categories/UPDATE_CATEGORY_FAILURE';
+
+export const DELETE_CATEGORY_REQUEST = 'app/Categories/DELETE_CATEGORY_REQUEST';
+export const DELETE_CATEGORY_SUCCESS = 'app/Categories/DELETE_CATEGORY_SUCCESS';
+export const DELETE_CATEGORY_FAILURE = 'app/Categories/DELETE_CATEGORY_FAILURE';
